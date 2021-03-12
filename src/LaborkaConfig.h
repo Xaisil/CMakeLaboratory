@@ -1,0 +1,1 @@
+/* #undef USE_TRIGONOMETRY_DEGREE */
